@@ -1,0 +1,3 @@
+OKAY! We are going to make a fun little static, single player demo game in Three.js and Normal Javascript (not typescript). Here is the concept of the game:
+
+It will be a 3D game with a third person perspective on some character. I'd like to make everything entirely in the engine. The concept of the game is very simple. Player starts the game and they are loaded  in the game world (our camp ground simulation) that has a fire pit, a table, and a chair. The player can walk around the camp ground and interact with the objects. We will come up with some fun interactions here in a second, but I think making the scene, camera controls, and objects will be the first priority!
